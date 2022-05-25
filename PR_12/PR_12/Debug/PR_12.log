@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+C:\Users\Макс\source\repos\PR_12\PR_12\main.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  PR_12.vcxproj -> C:\Users\Макс\source\repos\PR_12\Debug\PR_12.exe
